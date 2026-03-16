@@ -1,4 +1,6 @@
 # jetson-utils
+中文版本：[`README.zh-CN.md`](README.zh-CN.md)
+
 C++/CUDA/Python multimedia utilities for NVIDIA Jetson:
 
 |                        |                                                 |
